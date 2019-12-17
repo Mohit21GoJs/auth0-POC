@@ -13,7 +13,7 @@
 * SPA + API Integration.
 * JWT Middleware and basic verification of token.
 
-##TODOS
+## TODOS
 * Authorization, RBAC
 * Verify and validate id token
 * Validate Scopes
