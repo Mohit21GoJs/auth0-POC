@@ -1,5 +1,9 @@
 # auth0-POC
 
+## Implementation Resources
+* [SPA + API](https://auth0.com/docs/architecture-scenarios/spa-api)
+* [Auth0 Golang](https://auth0.com/blog/authentication-in-golang/)
+
 ## Deps
 * Go.
 
