@@ -100,7 +100,7 @@ var Home = React.createClass({
         this.webAuth = new auth0.WebAuth({
             domain:       AUTH0_DOMAIN,
             clientID:     AUTH0_CLIENT_ID,
-            scope:        'openid profile read:data',
+            scope:        'openid email profile',
             audience:     AUTH0_API_AUDIENCE,
             responseType: 'token id_token',
             redirectUri : AUTH0_CALLBACK_URL
