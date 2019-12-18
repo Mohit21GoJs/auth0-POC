@@ -16,9 +16,8 @@
 * MFA(Provided by Auth0 From Dashboard).
 * SPA + API Integration.
 * JWT Middleware and basic verification of token.
+* Authorization, RBAC - From Dashboard and auth plugin, included in access token
 
 ## TODOS
-* Authorization, RBAC
-* Verify and validate id token
-* Validate Scopes
+* Verify and validate id token - should be done in rules of Auth0
 * Data Migration
